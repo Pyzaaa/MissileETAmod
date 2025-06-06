@@ -1,6 +1,6 @@
 # MissileETA mod
 
-This mod shows SML SMD TML NukeSub UEF+Billy upgrade progress next to missile stockpile count
+This mod shows SML, SMD, TML, NukeSub, UEF+Billy missile construction progress next to missile stockpile count
 ![showcase](image.png)
 
 
