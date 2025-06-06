@@ -1,0 +1,16 @@
+name = "MissileETA"
+uid = "2318c9b6-3e0f-47e5-b032-86abbceff14f"
+version = 1
+copyright = "Left"
+description = "Displays Missile construction ETA"
+author = "Pyzu"
+url = ""
+selectable = true
+enabled = true
+exclusive = false
+ui_only = true
+requires = {}
+requiresNames = {}
+conflicts = {}
+before = {}
+after = {}
